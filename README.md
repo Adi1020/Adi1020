@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi1020" alt="adi1020" /></a> </p>
 
-- 🔭 I’m currently working on [OFEK-BACK](https://github.com/Adi1020/OFEK-BACK)
+- 🔭 I’m currently working on [check-it-out](https://github.com/Adi1020/check-it-out), [OFEK-BACK](https://github.com/Adi1020/OFEK-BACK)
 
 - 🌱 I’m currently learning **Python, Flask, SQL, Data science, React-native**
 
